@@ -1,6 +1,6 @@
-![logo](logo.png)
 
-- [Echo Down](#echo-down)
+
+- [PopDDoS](#popddos)
   * [Installation](#installation)
   * [Usage](#usage)
   * [Contributing](#contributing)
@@ -31,9 +31,9 @@ pip install -r requirements.txt
 
 ## Usage
 
-To use Echo Down, simply run the `echodown.py` file:
+To use PopDDoS, simply run the `popddos.py` file:
 ```bash
-python echodown.py
+python popddos.py
 ```
 The tool will then ask you to enter the IP address of the target server and the protocol to use (TCP, UDP, or HTTP).
 
